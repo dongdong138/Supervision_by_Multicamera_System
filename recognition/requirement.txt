@@ -1,0 +1,7 @@
+opencv-python
+tensorflow
+glob2
+tqdm
+scikit-image
+pandas
+scikit-learn
